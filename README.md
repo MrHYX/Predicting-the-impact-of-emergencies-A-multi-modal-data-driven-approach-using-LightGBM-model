@@ -1,0 +1,1 @@
+# Predicting-the-impact-of-emergencies-A-multi-modal-data-driven-approach-using-LightGBM-model
